@@ -21,5 +21,3 @@
 ## Objectifs futurs
 
 🚀 Aspirante développeuse web cherchant à améliorer constamment ses compétences.
-
-![](http://i.imgur.com/OUkLi.gif)
