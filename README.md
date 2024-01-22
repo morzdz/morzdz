@@ -4,14 +4,14 @@
 
 ## À propos de moi
 
-👨‍💻 Je suis actuellement en formation de développement web et web mobile chez Simplon, explorant les mystères de l'HTML, CSS et JavaScript.
+👩‍💻 Je suis actuellement en formation de développement web et web mobile chez Simplon, explorant les mystères de l'HTML, CSS et JavaScript.
 
 🌱 En plein apprentissage et passionné par la création de sites web interactifs et esthétiques.
 
 ## Compétences et intérêts
 
 - 💻 HTML, CSS, JavaScript (en cours d'apprentissage)
-- 🚀 Enthousiaste à propos des technologies web émergentes
+- 🕹 Enthousiaste à propos des technologies web émergentes
 - 🎨 Intérêt particulier pour le design web et l'expérience utilisateur
 
 ## Contact
