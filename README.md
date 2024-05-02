@@ -6,11 +6,12 @@
 
 👩‍💻 Je suis actuellement en formation de développement web et web mobile chez Simplon, explorant les mystères de l'HTML, CSS et JavaScript.
 
-🌱 En plein apprentissage et passionné par la création de sites web interactifs et esthétiques.
+🌱 Toujours apprentissage et passionné par la création de sites web interactifs et esthétiques.
 
 ## Compétences et intérêts
 
-- 💻 HTML, CSS, JavaScript (en cours d'apprentissage)
+- 💻 HTML, CSS, JavaScript, SQL
+- :abacus: ReactJS et Tailwind
 - 🕹 Enthousiaste à propos des technologies web émergentes
 - 🎨 Intérêt particulier pour le design web et l'expérience utilisateur
 
